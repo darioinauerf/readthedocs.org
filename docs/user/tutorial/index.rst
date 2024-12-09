@@ -1,7 +1,7 @@
 Read the Docs tutorial
 ======================
 
-In this tutorial you will learn how to host a public documentation project on Read the Docs Community.
+In thibbs tutorial you will learn how to host a public documentation project on Read the Docs Community.
 
 .. note::
 
